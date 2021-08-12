@@ -15,8 +15,6 @@ Skills: Java / SQL / Spring / Java EE
 
   <img align="left" alt="Naruhin's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=naruhin&show_icons=true&theme=dark" />
 
-</details>
-<details>
   <summary>:zap: GitHub Metrics</summary>
 
   <img align="left" alt="Naruhin's GitHub Metrics" src="https://metrics.lecoq.io/naruhin" />
