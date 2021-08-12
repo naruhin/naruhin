@@ -16,9 +16,6 @@ Skills: Java / SQL / Spring / Java EE
   <img align="left" alt="Naruhin's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=naruhin&show_icons=true&theme=dark" />
 
 </details>
-
----
-
 <details>
   <summary>:zap: GitHub Metrics</summary>
 
@@ -26,14 +23,6 @@ Skills: Java / SQL / Spring / Java EE
 
 </details>
 
----
-
-<details>
-  <summary>:zap: GitHub Metrics</summary>
-
-  <img align="left" alt="Naruhin's GitHub streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=naruhin" />
-
-</details>
 
 
 ![Profile views](https://gpvc.arturio.dev/naruhin)  
