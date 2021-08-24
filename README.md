@@ -1,6 +1,6 @@
 
 ### Hi there 👋,  I'm Dima
-#### I am Junior Java Developer
+#### I am Java Software Engineer
 
 Skills: Java / SQL / Spring / Java EE
 
