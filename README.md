@@ -16,7 +16,7 @@
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naruhin&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="naruhin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naruhin&show_icons=true&theme=synthwave&locale=en" alt="naruhin" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=naruhin&show_icons=true&theme=synthwave&locale=en" alt="naruhin" /></p>
 </div>
 
 
