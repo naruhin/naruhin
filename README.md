@@ -17,3 +17,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naruhin&show_icons=true&theme=synthwave&locale=en" alt="naruhin" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naruhin&theme=dark" alt="naruhin" /></p>
+
